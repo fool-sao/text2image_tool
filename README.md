@@ -141,17 +141,6 @@ python main.py
 
 质量选项:`hd` / `standard`
 
-## 安全提示
-
-- `config.json` 含 API Key,**切勿提交到公开仓库**
-- 建议在 `.gitignore` 中加入:
-  ```
-  config.json
-  outputs/
-  __pycache__/
-  *.pyc
-  ```
-
 ## 许可证
 
 本项目仅供学习交流使用。使用前请遵守智谱 AI 的服务条款。
