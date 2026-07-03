@@ -1,6 +1,7 @@
 # 批量文生图工具
 
 基于 [智谱清言 glm-image](https://open.bigmodel.cn/) 模型的桌面端文生图工具,采用 PySide6 构建,支持手动单图生成、Excel 批量任务、组图模式与本地历史归档。界面采用现代暗色主题,主色靛蓝 `#4f6df5`,卡片化布局配合圆角与柔和阴影。
+<img width="1378" height="828" alt="image" src="https://github.com/user-attachments/assets/974d86cb-5fd2-4a3d-9468-52c15e71b8cf" />
 
 ## 功能特性
 
